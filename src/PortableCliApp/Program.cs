@@ -11,6 +11,7 @@ using PortableCliApp;
 Console.WriteLine("Cross-platform .NET 10 CLI demonstration");
 Console.WriteLine("========================================");
 Console.WriteLine();
+Console.WriteLine("adding new commit");
 
 /*
  * Show the environment in which this build is running.
